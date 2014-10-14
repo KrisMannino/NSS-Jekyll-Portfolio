@@ -1,0 +1,12 @@
+# Site settings
+title: Kris Mannino
+email: krismannino@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Kris Mannino's blog on Nashville Software Schools cohort number 7 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://krismannino.github.io" # the base hostname & protocol for your site
+twitter_username: "@krismunny"
+github_username:  "krismannino"
+
+# Build settings
+markdown: kramdown
