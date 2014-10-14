@@ -1,13 +1,23 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <link rel="stylesheet" href="style/main.css">
-    <title>Kris Mannino's Portfolio</title>
-    <h1>Kris Mannino</h1>
-  </head>
-  <body>
-    <img src="#########" alt="Picture of Kris Mannino">
-    <p>Currently studying front end development at Nashville Software School</p>
-    <p>Moved to Nashville in '08.  I plan on becoming a Badass Software developer. </p>
-  </body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
