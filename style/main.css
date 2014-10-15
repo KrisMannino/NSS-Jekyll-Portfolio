@@ -1,8 +1,7 @@
 
 h1 {
-    border-color: #000;
     text-align: center;
-    text-color: #FFF;
+    text-color: #000;
     background-color: #000;:if expand("%") == ""|browse confirm w|else|confirm w|endif
 
 }
