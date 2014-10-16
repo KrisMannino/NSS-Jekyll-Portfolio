@@ -19,7 +19,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family:  'Oswald', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -99,7 +99,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 5px solid #f000f0;
+  border: 1px solid #f000f0;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -155,7 +155,7 @@ pre {
  */
 .site-header {
   border-top: 5px solid black;
-  border-bottom: 5px solid black;
+  border-bottom: 8px black;
   min-height: 56px;
   position: relative; }
 
@@ -184,7 +184,7 @@ pre {
       top: 9px;
       right: 30px;
       background-color: #666;
-      border: 5px solid #f000f0;
+      border: 1px solid #f000f0;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -214,7 +214,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 5px solid #f000f0;
+  border-top: 8px solid #f000f0;
   padding: 30px 0; }
 
 .footer-heading {
