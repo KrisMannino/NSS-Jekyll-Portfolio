@@ -99,7 +99,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #f000f0;
+  border: 5px solid #f000f0;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -155,7 +155,7 @@ pre {
  */
 .site-header {
   border-top: 5px solid black;
-  border-bottom: 1px solid #f000f0;
+  border-bottom: 5px solid black;
   min-height: 56px;
   position: relative; }
 
@@ -184,7 +184,7 @@ pre {
       top: 9px;
       right: 30px;
       background-color: #666;
-      border: 1px solid #f000f0;
+      border: 5px solid #f000f0;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
