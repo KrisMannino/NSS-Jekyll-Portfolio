@@ -6,9 +6,24 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 16 Oct 2014 10:06:47 -0500</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2014 10:06:47 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2014 15:35:07 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2014 15:35:07 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Making This Blog In Jekyll</title>
+        <description>&lt;p&gt;Week 2:&lt;/p&gt;
+
+&lt;p&gt;I started this blog and website after we used RubyGems to instal Jekyll to our computers.  The file scructure was difficult to figure out at first but now Im starting to get the hang of it. Switching the landing page and moving the blog was confusing at first but my fellow classmates were helpful and I figure out how jekyll reads the permalink scripts on each markdown page.  &lt;/p&gt;
+&lt;p&gt;I also worked with Sass for the first time and am a big fan.  Again navigating Jekyll took some time but after figuring out how to manipulate the variables on the main.scss page and find where theyre referenced in the _sass folder I know I will be using it a lot from now on.  Its nice to be able to set and edit a certain set of colors ahead of time or even seperate from the css in the markup stage will make my life easier.  I did catch on to the nesting aspect of Sass pretty quickly, because of its ease of use and similarity to HTML, which was reassuring. 
+&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2014/10/16/Making-this-blog-in-Jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/10/16/Making-this-blog-in-Jekyll.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>First week at nss</title>

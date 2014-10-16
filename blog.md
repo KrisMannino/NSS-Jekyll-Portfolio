@@ -3,7 +3,6 @@ layout: page
 title: Goings On
 permalink: /blog/
 ---
-my blog is going to go here
 
 <div class="home">
 
