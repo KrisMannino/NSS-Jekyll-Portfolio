@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Making This Blog in Jekyll"
+date:   2014-10-16 10:55:42
+---
+
 <p>Week 2:</p>
 
 <p>I started this blog and website after we used RubyGems to instal Jekyll to our computers.  The file scructure was difficult to figure out at first but now Im starting to get the hang of it. Switching the landing page and moving the blog was confusing at first but my fellow classmates were helpful and I figure out how jekyll reads the permalink scripts on each markdown page.  </p>
