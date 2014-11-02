@@ -20,7 +20,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font-family: "Oswald", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   font-weight: 300;
   color: #111;
@@ -50,7 +50,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 18px; }
 
 /**
  * Lists
@@ -278,7 +278,7 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 18px;
   color: #240024; }
 
 .post-link {
@@ -455,3 +455,20 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+#resume ul li {
+  font-size: .9em;
+  margin: auto; }
+#resume h1 {
+  border-bottom: 2px solid black; }
+#resume section#preamble a {
+  display: block;
+  float: right;
+  clear: right; }
+#resume section#jobs h2 {
+  width: 20%; }
+#resume section#education h2 {
+  width: 20%; }
+#resume section#education h3, #resume section#education h4 {
+  display: block;
+  font-size: 1.2em; }
